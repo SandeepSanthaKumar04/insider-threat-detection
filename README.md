@@ -1,22 +1,33 @@
 # Enterprise Insider Threat Detection System
 
-A comprehensive web-based application for detecting and analyzing insider threats within an organization using machine learning and data analytics.
+A comprehensive machine learning-based system to detect and predict insider threats or corporate espionage using employee behavioral data.
 
-## Features
+## 🔧 Features
 
-- Real-time monitoring dashboard
+- Real-time monitoring dashboard (Streamlit)
 - Employee behavior analysis
 - Risk scoring and assessment
 - Anomaly detection using Isolation Forest
 - Interactive visualizations
 - Trend analysis
 - Advanced analytics with PCA
+- 3D PCA risk analysis
+- Employee profile visualizations
+- Simulated live activity feed
 
-## Installation
+## 🛠️ Tech Stack
+
+- Python 3.x
+- Streamlit
+- Scikit-learn
+- Pandas, NumPy
+- Matplotlib, Seaborn, Plotly
+
+## 📦 Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/insider-threat-detection.git
+git clone https://github.com/SandeepSanthaKumar04/insider-threat-detection.git
 cd insider-threat-detection
 ```
 
@@ -60,4 +71,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the LICENSE file for details.
