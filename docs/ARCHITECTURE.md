@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Insider Threat Detection System is built using a modular architecture that combines machine learning models with real-time monitoring capabilities. The system is designed to be scalable, maintainable, and secure.
+The Insider Threat Detection System is built using a modular architecture that combines machine learning models with real-time monitoring capabilities. The system is designed to be scalable and maintainable.
 
 ## Components
 
@@ -35,13 +35,6 @@ The Insider Threat Detection System is built using a modular architecture that c
 2. Data preprocessing and feature extraction
 3. Model prediction and risk assessment
 4. Results visualization and alert generation
-
-## Security Considerations
-
-- Data encryption at rest and in transit
-- Role-based access control
-- Audit logging
-- Secure API endpoints
 
 ## Performance Optimization
 

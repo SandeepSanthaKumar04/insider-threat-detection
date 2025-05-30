@@ -16,9 +16,7 @@ A comprehensive machine learning-based system to detect and predict insider thre
 - [Usage](#-usage)
 - [Examples](#-examples)
 - [Project Structure](#project-structure)
-- [API Documentation](#api-documentation)
 - [Contributing](#contributing)
-- [Security](#security)
 - [License](#license)
 - [Contact](#contact)
 
@@ -143,17 +141,9 @@ insider-threat-detection/
 └── config/            # Configuration files
 ```
 
-## 📚 API Documentation
-
-For detailed API documentation, please visit our [Wiki](https://github.com/SandeepSanthaKumar04/insider-threat-detection/wiki).
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## 🔒 Security
-
-Please report any security issues to sandeepsanthakumar04@gmail.com. For more information, see our [Security Policy](SECURITY.md).
 
 ## 📄 License
 
